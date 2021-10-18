@@ -1,0 +1,15 @@
+.showcase {
+  background: url("../../../images/pexels-pixabay-356040.jpg") no-repeat center /
+    cover;
+  height: 600px;
+  width: auto;
+}
+
+.showcase .overlay {
+  display: flex;
+  align-items: center;
+  height: 400px;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
